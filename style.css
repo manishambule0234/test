@@ -9,7 +9,7 @@ header h1{
 header{
     display: flex;
     justify-content: space-between;
-    
+    margin :3rem;
 }
 
 nav{
